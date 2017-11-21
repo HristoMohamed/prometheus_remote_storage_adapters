@@ -11,6 +11,7 @@ data through Prometheus via Prometheus's remote read protocol.
 ## Building
 
 ```
+Please read the INSTALLING.md first
 go build
 ```
 
